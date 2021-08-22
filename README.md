@@ -1,6 +1,6 @@
 # Laravel Framework Important Files
 
-Important Files for Laravel User. to be continued....
+Important Files for Laravel User. be continued....
 
 
 
